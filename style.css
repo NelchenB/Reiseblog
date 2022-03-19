@@ -151,16 +151,7 @@ menu a:hover {
 }
 
 .parallaxwir {
-	background-image: url("images/DavosEisstadion.jpg");
-    min-height: 80vh;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-    background-attachment: fixed;
-}
-
-.parallaxplan {
-	background-image: url("images/DavosLandschaft.jpg");
+	background-image: url("images/akrokorinth.JPG");
     min-height: 80vh;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -169,7 +160,7 @@ menu a:hover {
 }
 
 .parallaxhighlight {
-	background-image: url("images/landscape.jpg");
+	background-image: url("images/säulen.JPG");
     min-height: 80vh;
 	background-position: center;
 	background-repeat: no-repeat;
