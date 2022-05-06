@@ -59,8 +59,7 @@ menu{
     justify-content: space-between;
     font-family: "Reenie Beanie";
 	border: 5px; 
-	border-color: rgb(96, 96, 84)(96, 96, 84);
-	
+	border-color: rgb(96, 96, 84);
 }
 
 menu a {
@@ -176,6 +175,14 @@ menu a:hover {
 	background-size: cover;
     background-attachment: fixed;
 }
+
+.parallaxschweden {
+	background-image: url("images/see.JPG");
+    min-height: 60vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-attachment: fixed;
 }
 
 @media only screen and (max-width: 667px) {
@@ -223,7 +230,7 @@ menu a:hover {
 
 
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1024px){
 	body {
 		width: 100%;
 		margin: 2% 0;
@@ -241,5 +248,3 @@ menu a:hover {
 		padding: 2em;
 	}
 }
-
-
