@@ -150,7 +150,7 @@ menu a:hover {
 }
 
 .parallaxwir {
-	background-image: url("images/Deich.JPG");
+	background-image: url("images/lofoten.JPG");
     min-height: 80vh;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -159,7 +159,7 @@ menu a:hover {
 }
 
 .parallaxhighlight {
-	background-image: url("images/säulen.JPG");
+	background-image: url("images/abendstimmung.JPG");
     min-height: 80vh;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -177,7 +177,7 @@ menu a:hover {
 }
 
 .parallaxschweden {
-	background-image: url("images/see.JPG");
+	background-image: url("images/Deich.JPG");
     min-height: 60vh;
 	background-position: center;
 	background-repeat: no-repeat;
